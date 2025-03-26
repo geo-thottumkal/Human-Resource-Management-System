@@ -1,4 +1,4 @@
-👨‍💼 Human Resource Management System (HRM)
+<h1 align="center">👨‍💼 Human Resource Management System (HRM)</h1>
 
 📌 About HRM
 
